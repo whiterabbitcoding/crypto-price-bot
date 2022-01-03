@@ -1,0 +1,1 @@
+Price bot for getting market prices from coincap
